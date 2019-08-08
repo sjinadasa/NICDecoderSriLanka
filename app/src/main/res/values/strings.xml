@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NIC Decoder Sri Lanka</string>
+    <string name="instructionsToEnter">Enter your NIC number </string>
+    <string name="instructionsHint">Enter 9 or 12 numbers</string>
+    <string name="error_hint"><font size="15">Invalid NIC number format!</font></string>
+    <string name="decode">Decode</string>
+
+    <string-array name="nic_letter_array">
+        <item>-</item>
+        <item>V</item>
+        <item>X</item>
+    </string-array>
+
+    <string name="answerDOB">Your date of birth is </string>
+    <string name="bDayPlaceHolder">25 - November - 1991</string>
+    <string name="youAre">You are</string>
+    <string name="genderPlaceHolder">A Man</string>
+    <string name="votePlaceHolder">You are eligible to vote</string>
+</resources>
